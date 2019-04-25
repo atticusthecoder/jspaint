@@ -113,12 +113,12 @@
 				.done(function(){
 
 					var config = {
-						apiKey: "AIzaSyBgau8Vu9ZE8u_j0rp-Lc044gYTX5O3X9k",
-						authDomain: "jspaint.firebaseapp.com",
-						databaseURL: "https://jspaint.firebaseio.com",
-						projectId: "firebase-jspaint",
-						storageBucket: "",
-						messagingSenderId: "63395010995"
+						apiKey: "AIzaSyCxmoF5baHeqO3Hrr-AGAJTHd93B_rCI0s",
+						authDomain: "jspaint-58c7b.firebaseapp.com",
+						databaseURL: "https://jspaint-58c7b.firebaseio.com",
+						projectId: "jspaint-58c7b",
+						storageBucket: "jspaint-58c7b.appspot.com",
+						messagingSenderId: "313055448006"
 					};
 					firebase.initializeApp(config);
 
