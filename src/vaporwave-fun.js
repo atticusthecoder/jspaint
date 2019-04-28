@@ -1,3 +1,5 @@
+console.log(Konami.code(toggle_vaporwave) + " is Vaporwave");
+
 (function () {
 	var rAF_ID, rotologo, $window, space_phase_key_handler, player;
 	var vaporwave_active = false;
